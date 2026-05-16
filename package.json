@@ -1,0 +1,16 @@
+{
+  "name": "fly-relay-worker",
+  "version": "1.0.0",
+  "description": "Proxy Relay",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
